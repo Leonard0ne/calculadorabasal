@@ -3,7 +3,7 @@ h1 {
 }
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
 body {
-  background: rgb(228, 202, 202);
+  background: rgb(226, 219, 219);
   font-family: "Monserrat", Arial, Helvetica, sans-serif;
   color: #525354;
 }
@@ -25,7 +25,7 @@ body {
   float: left;
 }
 #detalle {
-  background: #ee658c;
+  background: #746ac3;
   width: 50%;
   height: 100%;
   float: left;
@@ -50,8 +50,8 @@ button {
   font-weight: bold;
   padding: 10px 35px;
   border-radius: 30px;
-  background-color: #ee658c;
-  border: 1px solid #ee658c;
+  background-color: rgb(101, 80, 220);
+  border: 1px solid rgb(114, 29, 53);
   color: #ffffff;
   text-transform: uppercase;
   letter-spacing: 1px;
